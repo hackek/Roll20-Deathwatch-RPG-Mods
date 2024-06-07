@@ -1,2 +1,4 @@
 # Roll20-Deathwatch-RPG-Mods
 I programmed free to use roll20 mods for the Deathwatch RPG and the fan base to enjoy. Any time a 1d100 is rolled, calculations like auto fail, auto succeed, and hit location are performed. Additionally, Righteous Fury damage is automatically calculated.
+
+To install the mods, you'll need a top tier subscription to roll20 to make use of their API and ability to write mods. If you haven't already, you'll want to create a new roll20 game as the gm using the deathwatch rpg system. On the game you're looking to use it on, select game settings (the gear icon), and select "mods". Here, you can create two new mods and copy and paste my mod code for either or both of the mods into the blank mod files. Lastly, make sure you're utilizing the custom deathwatch character sheet for the game of deathwatch you're playing
